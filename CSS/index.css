@@ -1,0 +1,35 @@
+#heading{
+    text-align: center;
+    color: red;
+}
+#activity{
+    text-decoration-line: underline;
+    text-decoration-color: blue;
+}
+#content{
+    text-align: justify;
+    text-align-last: justify;
+    height: 500px;
+    text-decoration: solid;
+    width: 500px;
+    padding: 50px;
+}
+a{
+    text-decoration: none;
+    color: brown;
+    display: block;
+    background-color: aqua;
+    width: 180px;
+    line-height: 60px;
+    text-align: center;
+    ;
+}
+p{
+    margin: 50px;
+    margin-left: 400px;
+}
+body{
+    background-image: url(https://mzamin.com/uploads/news/main/33952_Atik-3.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+}
